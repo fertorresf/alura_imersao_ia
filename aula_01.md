@@ -104,8 +104,8 @@ A incorporação de IA ao sistema de prevenção de LD/FT da fintech pode trazer
 
 ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/25fd4f32-d0d4-4371-bc6d-1a641b8334bd)
 
-
-## Desafio 2: Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site;
+> [!TIP]
+> ## Desafio 2: Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site;
 
 **Meu Prompt:** *faça uma analise do meu historico de navegação do chrome nesse arquivo:
 history.csv
