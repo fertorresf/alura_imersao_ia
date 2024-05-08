@@ -1,3 +1,5 @@
+Editando... 
+
 Desafio 1:
 
 Meu Prompt: elabore uma query sql para oracle database, verificando em tabela de historico se possui muitas antecipações dentro de um ano
