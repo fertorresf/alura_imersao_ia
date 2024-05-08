@@ -1,5 +1,41 @@
 # Aula 01: Mergulhando no Gemini, a IA do Google.
 
+> MERGULHANDO NO GEMINI, A IA DO GOOGLE
+> PARTICIPE E VÁ MAIS FUNDO
+Boas-vindas! Chegou a hora de mergulhar na Imersão IA 2ª edição da Alura e do Google para dar um novo passo na sua carreira!
+
+Acesse o Google AI Studio aqui; https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Acesse o Google API Key aqui; https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Acesse o Google Gemini aqui. https://gemini.google.com/?utm_source=website&utm_medium=referral&utm_campaign=alura_may24
+
+Nesta aula, vamos começar o nosso mergulho conhecendo o Gemini, a IA do Google, e ver como ele consegue criar tabelas, escrever poemas, gerar códigos e muito mais. Além disso, vamos conhecer também o Google AI Studio.
+
+# Introdução
+
+Nesta aula, você vai:
+Conhecer o Gemini, a IA do Google;
+Entender o que é a Inteligência Artificial generativa;
+Gerar tabelas, poemas, códigos pelo Gemini;
+Conhecer o Google AI Studio;
+Analisar imagens com o Gemini e o Google AI Studio.
+Link do projeto base:
+Acesse o Google Gemini aqui https://gemini.google.com/
+Acesse o Google AI Studio aqui https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Acesse o Google API Key aqui https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Faça uma cópia da planilha com as avaliações dos hoteis aqui https://docs.google.com/spreadsheets/d/1qKUKKI7BNmVFs4rvTkl4YeCEbddRNcCP5_r_-pICk4A/edit?usp=sharing
+Acesse a pasta com as Imagens utilizadas na aula aqui https://drive.google.com/drive/folders/1w8lfurPj3TakbhAiSiVtbMPji_PU-KNC?usp=sharing
+Acesse os prompts utilizados na aula aqui https://docs.google.com/document/d/130u8Kd6GewOsuRhoL4vWCENdh9ppDKabFAeUSWvYrlI/edit?usp=sharing
+
+# Links importantes para você acompanhar a aula
+
+Guia de Mergulho da Imersão IA! https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9
+Acesse o Discord https://discord.gg/Dw6zBZAFU9
+Base de dados do Kaggle de avaliações sobre hoteis https://www.kaggle.com/code/thehustler2003/naive-sentiment-classification/input
+Acesse o CodePen aqui https://codepen.io/pen/
+Acesse a comunidade Innovators aqui https://cloud.google.com/innovators?hl=pt-br
+
+# Desafios desta aula
+
 > [!TIP]
 > ## Desafio 1: Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 
@@ -136,4 +172,49 @@ Rever a segurança online: Certifique-se de utilizar senhas fortes e tomar medid
 Lembre-se de que esta análise é baseada apenas no histórico de navegação do Chrome e não reflete a totalidade das suas atividades online. No entanto, ela oferece insights valiosos sobre como você tem utilizado seu tempo e pode auxiliar na tomada de decisões sobre como otimizar sua experiência online.*
 
 ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/f1c1c66f-6469-4bba-8524-0f6c58fb138f)
+
+# Mergulhe mais profundo
+
+Aprofunde-se nos seguintes tópicos:
+Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407 https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/
+O que é o Google Gemini https://www.alura.com.br/artigos/google-gemini?_gl=1*1bx26ii*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzg4OTIuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE
+O que é IA generativa? https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney?_gl=1*1bx26ii*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzg4OTIuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE
+Como criar uma Inteligência Artificial? https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia?_gl=1*1bx26ii*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzg4OTIuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE
+O que é Machine Learning | Hipsters Ponto Tube https://www.youtube.com/watch?v=Iuz_jc96bQk
+
+# Compartilhar seu projeto
+
+Compartilhe seu codespace com outras pessoas pelo GitHub: https://github.com/
+Na página inicial do GitHub, clique no botão "New" (Novo) localizado no canto superior direito;
+Preencha o nome do seu repositório e uma breve descrição. Escolha se deseja que o repositório seja público (visível para todos) ou privado (acessível apenas por convite);
+Você pode optar por inicializar o repositório com um arquivo README, que é uma boa prática para fornecer informações sobre o projeto. Além disso, você pode escolher uma licença para o seu código, se desejar;
+Você pode especificar tipos de arquivos que o Git deve ignorar ao rastrear alterações. Por exemplo, você pode selecionar uma linguagem de programação específica para gerar um arquivo .gitignore correspondente;
+Se o seu projeto se encaixa em um dos modelos de projeto disponíveis, você pode escolher um para iniciar com estrutura pré-definida;
+Após preencher todas as informações necessárias, clique no botão "Create repository" (Criar repositório) para criar o seu repositório;
+Para saber mais confira os primeiros passos no GitHub. https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa&_gl=1*cqt5nn*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzg4OTIuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE
+Divulgue seu projeto
+Mostre o seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a Alura (@AluraOnline) e o Google (@GoogleBrasil). Vamos adorar ver os seus projetos e acompanhar a sua evolução! Lembre-se de utilizar a hashtag #imersao-ia-alura-google para que o seu projeto alcance ainda mais pessoas.
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
+
+> QUEM SÃO OS MERGULHADORES?
+> INSTRUTORES E INSTRUTORAS DA ALURA NESSA IMERSÃO
+
+**Fabrício Carraro**
+Program Manager e Autor de IA @ Alura
+https://twitter.com/fabriciocarraro
+https://www.linkedin.com/in/fabriciocarraro/
+https://github.com/fabriciocarraro
+
+**Paulo Silveira**
+https://cursos.alura.com.br/imersoes/aulas/paulo_caelum
+https://www.linkedin.com/in/paulosilveira/
+
+**Ana Raquel**
+Cientista de Dados e professora da FIAP
+https://www.linkedin.com/in/ana-raquel-fernandes-cunha-a48a07a0/
+
+**Luciano Martins**
+Developer Advocate, Google IA.
+https://www.linkedin.com/in/lucianommartins/
 
