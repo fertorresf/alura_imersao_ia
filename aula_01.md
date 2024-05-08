@@ -61,9 +61,9 @@ Explicabilidade da IA: Utilizar modelos de IA que ofereçam explicações claras
 Atualização Contínua: Manter o sistema atualizado com as últimas tendências em LD/FT e as mudanças na regulamentação.
 Este pipeline com IA pode ser uma ferramenta poderosa para fortalecer a prevenção à LD/FT na fintech, proporcionando maior segurança e confiança aos seus clientes.*
 
-Meu Prompt: Atualmente este serviço está sendo executado por um sistema superviosionado de forma automatica, o input é o cpf e/ou nome completo do cliente, que passa por 13 validações, 1º se cliente esta em lista PEP ou PEP relacionado, 2º se cliente está em lista de áreas embargadas, 3º se o cliente está em lista de trabalho escravo, 4º se o cliente está em lista CEIS, 5º se o cliente está em lista CNEP, 6º se o cliente está em lista COAF, 7º se o cliente possui cargo profissional de alto risco, 8º se o cliente está em lista CEIS, 9º se está em lista csnu, 10º se está em lista de acordos de leniencia, 11º se o cadastro do cliente está vencido em periodo de 1 ano, 12º se o cadastro do cliente possui comprovante de renda e/ou patrimonio declarado, 13º se cadastro possui dados obrigatorios preenchidos, 14º se cliente reside em cidade de fronteira, 15º se cliente possui frequencia atipica de operações com liquidação antecipada em 2 meses seguidos, 16º se cliente possui frequencia atipica de operações com liquidação antecipada acima de 30 dias em intervalo de 90 dias de forma recorrente
+**Meu Prompt:** *Atualmente este serviço está sendo executado por um sistema superviosionado de forma automatica, o input é o cpf e/ou nome completo do cliente, que passa por 13 validações, 1º se cliente esta em lista PEP ou PEP relacionado, 2º se cliente está em lista de áreas embargadas, 3º se o cliente está em lista de trabalho escravo, 4º se o cliente está em lista CEIS, 5º se o cliente está em lista CNEP, 6º se o cliente está em lista COAF, 7º se o cliente possui cargo profissional de alto risco, 8º se o cliente está em lista CEIS, 9º se está em lista csnu, 10º se está em lista de acordos de leniencia, 11º se o cadastro do cliente está vencido em periodo de 1 ano, 12º se o cadastro do cliente possui comprovante de renda e/ou patrimonio declarado, 13º se cadastro possui dados obrigatorios preenchidos, 14º se cliente reside em cidade de fronteira, 15º se cliente possui frequencia atipica de operações com liquidação antecipada em 2 meses seguidos, 16º se cliente possui frequencia atipica de operações com liquidação antecipada acima de 30 dias em intervalo de 90 dias de forma recorrente.*
 
-Resposta: Análise do Sistema Supervisionado Atual e Sugestões de Aprimoramento com IA
+**Resposta:** *Análise do Sistema Supervisionado Atual e Sugestões de Aprimoramento com IA
 O sistema atual com 16 validações supervisionadas já demonstra um bom nível de controle para a prevenção de LD/FT. No entanto, a incorporação de IA pode trazer melhorias significativas em termos de precisão, eficiência e adaptabilidade.
 Pontos Fortes do Sistema Atual:
 Abordagem baseada em regras: Fácil de entender e implementar.
@@ -100,19 +100,19 @@ Recomendações:
 Iniciar com um projeto piloto: Implementar a IA em um grupo limitado de clientes para avaliar seu desempenho antes de expandir para toda a base.
 Investir em capacitação: Treinar a equipe de compliance para entender e utilizar as ferramentas de IA.
 Monitorar e auditar o sistema: Acompanhar o desempenho da IA e garantir que ela esteja sendo usada de forma ética e responsável.
-A incorporação de IA ao sistema de prevenção de LD/FT da fintech pode trazer benefícios significativos, permitindo uma detecção mais precisa e eficiente, além de uma melhor adaptação às novas ameaças e tendências.
+A incorporação de IA ao sistema de prevenção de LD/FT da fintech pode trazer benefícios significativos, permitindo uma detecção mais precisa e eficiente, além de uma melhor adaptação às novas ameaças e tendências.*
 
 Imagem: ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/25fd4f32-d0d4-4371-bc6d-1a641b8334bd)
 
 
 **Desafio 2: Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site;**
 
-Meu Prompt: faça uma analise do meu historico de navegação do chrome nesse arquivo:
+**Meu Prompt:** *faça uma analise do meu historico de navegação do chrome nesse arquivo:
 history.csv
 162458 Tokens
-e me ajude a tirar conclusões de como tenho usado o meu tempo, crie um resumo do que mais acesso, quantidade de uso e o tipo de site
+e me ajude a tirar conclusões de como tenho usado o meu tempo, crie um resumo do que mais acesso, quantidade de uso e o tipo de site.*
 
-Resposta: Análise do Histórico de Navegação do Chrome
+**Resposta:** *Análise do Histórico de Navegação do Chrome
 Baseado no arquivo history.csv, realizei uma análise do seu histórico de navegação para entender como você tem utilizado o seu tempo online. Aqui está um resumo das principais conclusões:
 Sites Mais Acessados:
 LinkedIn: Com 188 visitas e 59 digitações, o LinkedIn é o site mais acessado, indicando um foco em networking profissional e busca de oportunidades.
@@ -135,7 +135,7 @@ Recomendações:
 Explorar ferramentas de gerenciamento de tempo: Para otimizar sua produtividade online, considere utilizar ferramentas que ajudam a organizar seu tempo e focar nas tarefas mais importantes.
 Balancear atividades online: Embora o foco profissional seja importante, lembre-se de equilibrar suas atividades online com outras áreas da sua vida, como lazer, hobbies e interações sociais.
 Rever a segurança online: Certifique-se de utilizar senhas fortes e tomar medidas para proteger sua privacidade online, especialmente ao acessar plataformas com informações pessoais e financeiras.
-Lembre-se de que esta análise é baseada apenas no histórico de navegação do Chrome e não reflete a totalidade das suas atividades online. No entanto, ela oferece insights valiosos sobre como você tem utilizado seu tempo e pode auxiliar na tomada de decisões sobre como otimizar sua experiência online.
+Lembre-se de que esta análise é baseada apenas no histórico de navegação do Chrome e não reflete a totalidade das suas atividades online. No entanto, ela oferece insights valiosos sobre como você tem utilizado seu tempo e pode auxiliar na tomada de decisões sobre como otimizar sua experiência online.*
 
 Imagem: ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/f1c1c66f-6469-4bba-8524-0f6c58fb138f)
 
