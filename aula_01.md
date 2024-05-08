@@ -5,9 +5,9 @@ Comece com um mergulho introdutório ao Gemini, a IA do Google.
 
 **Desafio 1: Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;**
 
-Meu Prompt: crie um pipeline avançado com IA para prevenção a lavagem de dinheiro e financiamento ao terrorismo, o serviço será utilizado por uma fintech, que atende apenas clientes na modalidade pessoa fisica.
+**Meu Prompt:** *crie um pipeline avançado com IA para prevenção a lavagem de dinheiro e financiamento ao terrorismo, o serviço será utilizado por uma fintech, que atende apenas clientes na modalidade pessoa fisica.*
 
-Resposta: Pipeline Avançado com IA para Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo para Fintech (Pessoa Física)
+**Resposta:** *Pipeline Avançado com IA para Prevenção à Lavagem de Dinheiro e Financiamento ao Terrorismo para Fintech (Pessoa Física)
 Este pipeline visa auxiliar a fintech na identificação de atividades suspeitas relacionadas à lavagem de dinheiro (LD) e financiamento ao terrorismo (FT) em clientes pessoa física. A IA desempenhará um papel crucial na automatização e aprimoramento da detecção, reduzindo falsos positivos e melhorando a eficiência.
 Componentes do Pipeline:
 Coleta e Integração de Dados:
@@ -59,7 +59,7 @@ Considerações:
 Privacidade de Dados: Assegurar a proteção dos dados pessoais dos clientes em conformidade com as leis de proteção de dados.
 Explicabilidade da IA: Utilizar modelos de IA que ofereçam explicações claras sobre suas decisões para facilitar a análise e a auditoria.
 Atualização Contínua: Manter o sistema atualizado com as últimas tendências em LD/FT e as mudanças na regulamentação.
-Este pipeline com IA pode ser uma ferramenta poderosa para fortalecer a prevenção à LD/FT na fintech, proporcionando maior segurança e confiança aos seus clientes.
+Este pipeline com IA pode ser uma ferramenta poderosa para fortalecer a prevenção à LD/FT na fintech, proporcionando maior segurança e confiança aos seus clientes.*
 
 Meu Prompt: Atualmente este serviço está sendo executado por um sistema superviosionado de forma automatica, o input é o cpf e/ou nome completo do cliente, que passa por 13 validações, 1º se cliente esta em lista PEP ou PEP relacionado, 2º se cliente está em lista de áreas embargadas, 3º se o cliente está em lista de trabalho escravo, 4º se o cliente está em lista CEIS, 5º se o cliente está em lista CNEP, 6º se o cliente está em lista COAF, 7º se o cliente possui cargo profissional de alto risco, 8º se o cliente está em lista CEIS, 9º se está em lista csnu, 10º se está em lista de acordos de leniencia, 11º se o cadastro do cliente está vencido em periodo de 1 ano, 12º se o cadastro do cliente possui comprovante de renda e/ou patrimonio declarado, 13º se cadastro possui dados obrigatorios preenchidos, 14º se cliente reside em cidade de fronteira, 15º se cliente possui frequencia atipica de operações com liquidação antecipada em 2 meses seguidos, 16º se cliente possui frequencia atipica de operações com liquidação antecipada acima de 30 dias em intervalo de 90 dias de forma recorrente
 
