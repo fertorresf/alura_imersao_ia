@@ -1,3 +1,5 @@
+Editando...
+
 Desafio 1:
 
 Meu Prompt: crie um pipeline avançado com IA para prevenção a lavagem de dinheiro e financiamento ao terrorismo, o serviço será utilizado por uma fintech, que atende apenas clientes na modalidade pessoa fisica.
