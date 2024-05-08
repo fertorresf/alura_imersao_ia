@@ -1,5 +1,33 @@
 # Aula 02: Melhores técnicas em Engenharia de Prompt
 
+# Introdução
+
+Nesta aula, iremos conhecer as melhores técnicas e práticas de engenharia de prompt por meio do Google AI Studio!
+
+Nesta aula, você vai:
+Aprender as melhores técnicas de como realizar um prompt;
+Conhecer o conceito de zero-shot prompting;
+Aprender a técnica de few-shot prompting;
+Conhecer a técnica Few-shot Chain-of-Thought prompting.
+
+Link do projeto:
+Acesse o Google AI Studio aqui https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Acesse o Google API Key aqui https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Faça uma cópia da planilha de imposto de renda aqui https://docs.google.com/spreadsheets/d/1MIaZHndbP3eMMO0NmBSefjgVqUUfts7mvipQ0uzaJoA/edit?usp=sharing
+Acesse os Prompts utilizado na aula aqui https://docs.google.com/document/d/1N-77FtTvgV0pfvgpsWMBO4tE_Gt9y0xTW8arJSh8KpA/edit?usp=sharing
+Acesse o Google Gemini aqui https://gemini.google.com/
+
+# Links importantes para você acompanhar a aula
+
+Guia de Mergulho da Imersão IA! https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-41ae5fadd8fd47899167a115e96244d9
+Acesse o Discord https://discord.gg/Dw6zBZAFU9
+Acesse o Google AI Studio aqui https://aistudio.google.com/app/prompts/new_chat/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Acesse o Google API Key aqui https://aistudio.google.com/app/apikey/?utm_source=website&utm_medium=referral&utm_campaign=Alura&utm_content=
+Guia de design de prompts do Google https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br
+Acesse a comunidade Innovators aqui https://cloud.google.com/innovators?hl=pt-br
+
+# Desafios desta aula
+
 > [!TIP]
 > ## Desafio 1: Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
 
