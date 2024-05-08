@@ -1,4 +1,4 @@
-# alura_imersao_ia
+# Mergulhe em Inteligência Artificial com a Alura e o Google
 
 [Aula 01: Introdução à plataforma Gemini](/aula_01.md)
 
