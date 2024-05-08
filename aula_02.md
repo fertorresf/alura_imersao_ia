@@ -1,5 +1,3 @@
-*Editando...*
-
 # Aula 02: Melhores técnicas em Engenharia de Prompt
 
 > [!TIP]
