@@ -9,5 +9,3 @@
 [Aula 04: Desenvolvendo código para se conectar à API do Gemini em Python](/aula_04.md)
 
 [Aula 05: Criação de sistema com a API do Gemini](/aula_05.md)
-
-by Fernando Torres Ferreira da Silva
