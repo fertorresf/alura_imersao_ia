@@ -9,6 +9,7 @@
 **Resposta:** *Consultando Antecipações no Histórico do Oracle
 A seguir, apresento duas opções de queries SQL para verificar a quantidade de antecipações em um histórico no Oracle, considerando um período de um ano:
 Opção 1: Utilizando COUNT e GROUP BY
+'''
 SELECT 
     cliente_id,
     COUNT(*) AS total_antecipacoes
@@ -22,9 +23,11 @@ HAVING
     COUNT(*) > X -- Substitua X pelo número mínimo de antecipações considerado "muitas"
 ORDER BY 
     total_antecipacoes DESC;
+'''
 Use code with caution.
 SQL
 Opção 2: Utilizando janela analítica com ROW_NUMBER
+'''
 SELECT *
 FROM (
     SELECT 
@@ -40,6 +43,7 @@ WHERE
     num_antecipacoes > X -- Substitua X pelo número mínimo de antecipações considerado "muitas"
 ORDER BY 
     cliente_id, num_antecipacoes;
+'''
 Use code with caution.
 SQL
 Explicação das Queries:
