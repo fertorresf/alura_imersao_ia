@@ -1,5 +1,3 @@
-Editando...
-
 # Aula 01: Mergulhando no Gemini, a IA do Google.
 
 > [!TIP]
