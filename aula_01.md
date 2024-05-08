@@ -1,6 +1,6 @@
 Editando...
 
-# Aula 01 - 06/05 Comece com um mergulho introdutório ao Gemini, a IA do Google.
+# Aula 01 - Mergulhando no Gemini, a IA do Google.
 
 > [!TIP]
 > ## Desafio 1: Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
