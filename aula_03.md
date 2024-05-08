@@ -1,4 +1,4 @@
-# Aula 03 - 08/05 Dê um passo além e comece a explorar o Google AI Studio.
+# Aula 03: Explorando os parâmetros do Google AI Studio
 
 > [!TIP]
 > ## Desafio 1:
