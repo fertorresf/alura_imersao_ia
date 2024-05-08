@@ -226,3 +226,24 @@ Escolha do Melhor Título:
 A escolha do melhor título dependerá do seu objetivo e do público-alvo. Se você deseja um título direto e informativo, as primeiras opções são mais adequadas. Se você busca algo mais atraente e que desperte a curiosidade do leitor, as opções criativas podem ser melhores.
 
 ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/fc3ae01e-07d4-4ec2-868f-88d5c7f5db03)
+
+> QUEM SÃO OS MERGULHADORES?
+> INSTRUTORES E INSTRUTORAS DA ALURA NESSA IMERSÃO
+
+**Fabrício Carraro**
+Program Manager e Autor de IA @ Alura
+https://twitter.com/fabriciocarraro
+https://www.linkedin.com/in/fabriciocarraro/
+https://github.com/fabriciocarraro
+
+**Paulo Silveira**
+https://cursos.alura.com.br/imersoes/aulas/paulo_caelum
+https://www.linkedin.com/in/paulosilveira/
+
+**Ana Raquel**
+Cientista de Dados e professora da FIAP
+https://www.linkedin.com/in/ana-raquel-fernandes-cunha-a48a07a0/
+
+**Luciano Martins**
+Developer Advocate, Google IA.
+https://www.linkedin.com/in/lucianommartins/
