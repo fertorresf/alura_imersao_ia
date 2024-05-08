@@ -227,6 +227,16 @@ A escolha do melhor título dependerá do seu objetivo e do público-alvo. Se vo
 
 ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/fc3ae01e-07d4-4ec2-868f-88d5c7f5db03)
 
+# Mergulhe mais fundo
+
+Aprofunde-se nos seguintes tópicos:
+Paper da OpenAI "Language Models are Few-Shot Learners" https://arxiv.org/abs/2005.14165
+Paper do Google "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" https://arxiv.org/abs/2201.11903
+Paper do Google "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models" https://arxiv.org/abs/2205.10625
+Paper do Google "Self-Consistency Improves Chain of Thought Reasoning in Language Models" https://arxiv.org/abs/2203.11171
+Machine Learning no mundo da biometria, Google Gemini e verificação de alucinações Hipsters: Fora de Controle #29 https://www.alura.com.br/podcast/hipsterstech-machine-learning-no-mundo-da-biometria-google-gemini-e-verificacao-de-alucinacoes-hipsters-fora-de-controle-29-a9140?_gl=1*1gc96et*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzk2ODYuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE
+O que é Engenharia de Prompt e quais as suas principais técnicas? https://www.alura.com.br/artigos/engenharia-prompt?_gl=1*1he7396*_ga*NDY2NTQxMDY5LjE3MTE0MDc0MDQ.*_ga_1EPWSW3PCS*MTcxNTEzNzY3NC4xOC4xLjE3MTUxMzk2ODYuMC4wLjA.*_fplc*cmtMOHI3czklMkJWUDE5R3pMSnBnbUM2cHZVRDNEWDFaUjExQkF0RHdSaFVjNW1mMHVSY0RtQmhEYU8zcW5XTlZnSGlvTVpvd3NqeiUyRkwxN3Rad29EazFCaWlldEtOa205N2tGa2pDSkhoRSUyQkR6ZFhNTlhVQTJtTFJ2WHhmQjB3JTNEJTNE#principios-para-a-criacao-de-um-prompt
+
 # Compartilhar seu projeto
 
 Compartilhe seu codespace com outras pessoas pelo GitHub: https://github.com/
