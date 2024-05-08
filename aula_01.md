@@ -1,5 +1,8 @@
 Editando...
 
+Aula 01 - 06/05
+Comece com um mergulho introdutório ao Gemini, a IA do Google.
+
 Desafio 1:
 
 Meu Prompt: crie um pipeline avançado com IA para prevenção a lavagem de dinheiro e financiamento ao terrorismo, o serviço será utilizado por uma fintech, que atende apenas clientes na modalidade pessoa fisica.
@@ -99,6 +102,9 @@ Investir em capacitação: Treinar a equipe de compliance para entender e utiliz
 Monitorar e auditar o sistema: Acompanhar o desempenho da IA e garantir que ela esteja sendo usada de forma ética e responsável.
 A incorporação de IA ao sistema de prevenção de LD/FT da fintech pode trazer benefícios significativos, permitindo uma detecção mais precisa e eficiente, além de uma melhor adaptação às novas ameaças e tendências.
 
+Imagem: ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/25fd4f32-d0d4-4371-bc6d-1a641b8334bd)
+
+
 Desafio 2:
 
 Meu Prompt: faça uma analise do meu historico de navegação do chrome nesse arquivo:
@@ -130,3 +136,6 @@ Explorar ferramentas de gerenciamento de tempo: Para otimizar sua produtividade 
 Balancear atividades online: Embora o foco profissional seja importante, lembre-se de equilibrar suas atividades online com outras áreas da sua vida, como lazer, hobbies e interações sociais.
 Rever a segurança online: Certifique-se de utilizar senhas fortes e tomar medidas para proteger sua privacidade online, especialmente ao acessar plataformas com informações pessoais e financeiras.
 Lembre-se de que esta análise é baseada apenas no histórico de navegação do Chrome e não reflete a totalidade das suas atividades online. No entanto, ela oferece insights valiosos sobre como você tem utilizado seu tempo e pode auxiliar na tomada de decisões sobre como otimizar sua experiência online.
+
+Imagem: ![image](https://github.com/fertorresf/alura_imersao_ia/assets/147047340/f1c1c66f-6469-4bba-8524-0f6c58fb138f)
+
