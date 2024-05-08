@@ -1,7 +1,6 @@
 # alura_imersao_ia
 
-Aula 01:
-Introdução à plataforma Gemini
+[Aula 01: Introdução à plataforma Gemini](alura_imersao_ia/aula_01.md)
 
 Aula 02:
 Melhores práticas em Engenharia de Prompt
