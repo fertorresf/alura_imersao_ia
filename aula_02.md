@@ -2,7 +2,8 @@
 
 # Aula 02: Melhores técnicas em Engenharia de Prompt
 
-## Desafio 1: Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+> [!TIP]
+> ## Desafio 1: Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
 
 **Meu Prompt:** *elabore uma query sql para oracle database, verificando em tabela de historico se possui muitas antecipações dentro de um ano*
 
@@ -161,7 +162,8 @@ Monitore as transações e padrões de comportamento dos clientes ao longo do te
 Implemente políticas e procedimentos de KYC (Know Your Customer) para conhecer melhor seus clientes.
 Lembre-se: A prevenção à lavagem de dinheiro e financiamento ao terrorismo é uma tarefa complexa que requer uma abordagem multifacetada.*
 
-## Desafio 2: Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
+> [!TIP]
+> ## Desafio 2: Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
 
 **Meu Prompt:** 
 1. Titulo 1: Aspectos Interessantes da Migração de Carreira Para Ciência de Dados
