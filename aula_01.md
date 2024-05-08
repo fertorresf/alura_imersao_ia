@@ -2,7 +2,8 @@ Editando...
 
 # Aula 01 - 06/05 Comece com um mergulho introdutório ao Gemini, a IA do Google.
 
-## Desafio 1: Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
+> [!TIP]
+> ## Desafio 1: Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 
 **Meu Prompt:** *crie um pipeline avançado com IA para prevenção a lavagem de dinheiro e financiamento ao terrorismo, o serviço será utilizado por uma fintech, que atende apenas clientes na modalidade pessoa fisica.*
 
